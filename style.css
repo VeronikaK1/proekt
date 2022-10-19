@@ -1,0 +1,98 @@
+.cait {
+color: white;  
+border: 3px solid #FFD700;
+border-radius: 10px;
+margin-right: 540px;
+background-color: #FFD700;
+width: 145px;
+padding-right: 15px;
+}
+.vikipedia {
+color: white;    
+border: 3px solid white;
+border-radius: 10px;
+margin-right: 605px;
+background-color: white;
+width: 82px;
+padding-right: 5px;
+}
+.knopka {
+background-color: white;
+}
+.rejim {
+float: right;
+border: 7px solid red;
+}
+h1 {
+border-bottom: dashed;
+font-family: cursive;
+text-shadow: red 0 0 10px;
+}
+h2 {
+border-bottom: 2px solid yellow;
+color: yellow;
+}
+h3 {
+border-bottom: 2px solid yellow;
+color: yellow;
+}
+a {
+color: yellow;
+}
+a:visited {
+color: rgb(117, 255, 4);;
+}
+p {
+font-family: cursive;    
+}
+.youtube {
+border: 3px solid red;
+border-radius: 10px;
+margin-right: 623px;
+background-color: red;
+width: 65px;
+}
+.twitter {
+border: 3px solid #6495ED;
+border-radius: 10px;
+margin-right: 800px;
+background-color: #6495ED;
+width: 59px;
+}
+.instagram{
+border: 3px solid orange;
+border-radius: 10px;
+margin-right: 613px;
+background-color: orange;
+width: 80px;
+}
+.tiktok {
+border: 3px solid black;
+border-radius: 10px;
+margin-right: 630px;
+background-color: black;
+width: 53px;
+}
+.facebook {
+border: 3px solid blue;
+border-radius: 10px;
+margin-right: 618px;
+background-color: blue;
+width: 70px;
+}
+.tablitha {
+float: right;
+text-align: center;
+padding-left: 10px;
+}
+td {
+border: 3px solid red;   
+}
+body {
+background-image: url(https://drive.google.com/uc?export=view&id=1-gRdJlVHQm24I2x8LfNLGX1PssSq0ThO);
+background-color: rgb(0, 174, 255);
+text-shadow: black 0 0 10px;
+}   
+b {
+color: black;
+}
